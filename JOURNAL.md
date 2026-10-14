@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 4.5h | 2 |
+| Week 2 | Tier 1 | 5.6h | 2 |
 
 ## Contents
 
@@ -42,7 +42,7 @@ Success!
 
 ### 2026-10-13 – Starting to worry...
 
-**2h**
+**3.1h**
 
 Starting to worry...
 
@@ -52,9 +52,17 @@ Today I spent ~2 hours maybe a bit more making a plinko board from the tutorial 
 
 A little burnt out and my laptop is almost dead, yeah I could plug it in but whatever. Maybe I come back with an edit for this.
 
+edit:
+worked on it for another hour and revised the starting method, now it starts in the middle. you can view it in the attatched image.
+
+Thanks for reading.
+
 ![Screenshot 2026-10-13 at 19.21.39](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/fb602a231b3f9278582bec8ac96d4ea719d113dec2ab315feb605adf7bd7ff46.png)
 this looks horrendous it needs lots of work.
 ![Screenshot 2026-10-13 at 19.20.31](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/5492b090f5ec5326383716b36495f0c00cb541465699b541df6af2258df36b18.png)
 plinko board thingy
 
-Thanks for reading.
+![Screenshot 2026-10-13 at 21.52.50](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/cbe4c7bd5958dea701f8715d698489f59ef304395941112410b3de620fa3f06d.png)
+transparency so u can see
+![Screenshot 2026-10-13 at 21.55.33](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/91ec81da1024dcbe230e524e4544c2543087fd364bdd986f3bdff5e663a2c6e7.png)
+from the top, this view kinda sucks ik
