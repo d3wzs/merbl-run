@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 9.05h | 4 |
+| Week 2 | Tier 1 | 10h | 4 |
 
 ## Contents
 
@@ -92,11 +92,14 @@ plus the funnel
 
 ### 2026-10-15 – short day
 
-**0.75h**
+**1.7h**
 
 short day
 
 im really tired today and kinda just want to rest, maybe ill have the urge to work later. I started on the other side, gonna make it really wiggly with a few sets of stairs. You can see I started that in the photos i added. not much to say as it was only 45 minutes of work.
+
+EDIT:
+yep boredom got the best of me and i worked on it more. Just extended the other sides tracks, im dreading supports.
 
 Thanks for reading
 
@@ -104,3 +107,7 @@ Thanks for reading
 winding track and stairs
 ![Screenshot 2026-10-15 at 18.47.33](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/8e11d61294797df502635e2866a323d15b472ae2f6445b1faf0ed1bc872494c8.png)
 stair design
+
+EDIT IMAGES:
+![Screenshot 2026-10-15 at 20.50.39](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/eac6578be227ed680c7745eb43a68fd02ef9e76058ae2a4a5951e5294949a792.png)
+wow its so much longer
