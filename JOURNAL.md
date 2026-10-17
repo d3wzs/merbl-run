@@ -123,6 +123,8 @@ I had a class where we had free time so I used a chromebook to work on the proje
 
 It took me a very long time to figure out how to make supports for the run, eventually i got the hang of it. Once I finished I uploaded the nescassary, stl and step files to my github. Then i worked on improving the readme because i had a problem with that on my last project. Now im here making a journal entry
 
+Thanks for reading, im going to submit this and prepare for my FTX (field training exercise)
+
 ![Screenshot 2026-10-15 at 20.54.29](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/49b5e07ec1088c3adf59888772ed1aa4966c0504ce5daa82b2480504db72335e.png)
 before, i think atleast
 ![Screenshot 2026-10-16 at 16.53.43](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/c8dc89f7fc9383419ba5a04cc6b318157f8862bedc0b7d8574fe391fe3b41f37.png)
