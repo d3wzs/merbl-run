@@ -17,9 +17,11 @@ This is a my version of a marble run project from half life. I designed a plinko
 # Repository Guide
 
 
-- Starbie-BOM.csv — bill om materials csv format
-- BOM.md — bill of materials
+- BOM.csv — bill om materials csv format
 - JOURNAL.md — project journal
+- Merbl.step - project step file
+- Merbl.stl - project stl file.
+- README.md - your on it
 
 # Media
 
