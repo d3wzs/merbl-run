@@ -17,7 +17,7 @@ This is a my version of a marble run project from half life. I designed a plinko
 # Repository Guide
 
 
-- BOM.csv — bill om materials csv format
+- BOM.csv — bill om materials csv format, dont bother nothing there, its just a 3d print
 - JOURNAL.md — project journal
 - Merbl.step - project step file
 - Merbl.stl - project stl file.
