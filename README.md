@@ -23,6 +23,21 @@ This is a my version of a marble run project from half life. I designed a plinko
 - Merbl.stl - project stl file.
 - README.md - your on it
 
+# Bill of Materials
+
+- PLA, 436g, $7.71
+- Marbles, $6.49
+- Total: $14.2
+
+# Print Settings & Assembly Instructions
+
+I know almost nothing about 3d printing, i dont have a printer, so bare with me here. This is what I think the good settings would be based off my research
+- Infill: 15%
+- Layer Height 0.16mm
+- Nozzle 0.4mm
+- Nossle temp, varys depending on filament
+
+For the assembly if you print it as one peice then there you go otherwise id just superglue the peices together, thats my current plan, but itll change once I actually assemble this.
 # Media
 
 <img width="587" height="541" alt="Screenshot 2026-10-16 at 16 53 43" src="https://github.com/user-attachments/assets/d4093ac9-043c-48d7-a254-9b20b63528c3" />
